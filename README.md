@@ -1,3 +1,3 @@
 Elvis Ooi Zhee Henn
 18DITT24F1164 DIT4C
-DIT4C_18DIT24F1164_elvisooizheehenn
+DIT4C_18DIT24F1164_ElvisOoiZheeHenn

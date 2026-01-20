@@ -1,5 +1,22 @@
 <?php
-$nama = "KANG WEI JIAN";      // 改成你的全名（大写）
-$nomatrik = "18DDT23F1023";  // 改成你的学号
-$kelas = "DDT6A";            // 改成你的班级
+$nama = "ELVIS OOI ZHEE HENN";
+$nomatrik = "18DIT24F1164";
+$kelas = "DIT4C";
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profil Saya</title>
+</head>
+<body>
+    <h1>Profil Diri</h1>
+    
+
+    <p>Nama: <?= $nama ?></p>
+    <p>No. Matrik: <?= $nomatrik ?></p>
+    <p>Kelas: <?= $kelas ?></p>
+
+    <img src="profile.jpg" alt="Foto Saya" width="200">
+</body>
+</html>
